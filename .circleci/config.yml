@@ -9,7 +9,7 @@ jobs:
     - run: ls && ls
     - run: ls && ls
     - run: ls && ls
-    - run: sleep 2s
+    - run: sleep 2s && date
     - run: ls && sleep 2s
 
 
