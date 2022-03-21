@@ -10,7 +10,7 @@ jobs:
     - run: ls
     - run: ls
     - run: sleep 5s
-    - run: python fp.py --type socks5
+    - run: ls && sleep 2s
 
 
 workflows:
