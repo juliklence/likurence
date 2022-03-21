@@ -9,7 +9,7 @@ jobs:
     - run: ls
     - run: ls
     - run: ls
-    - run: python fp.py --type socks4
+    - run: sleep 5s
     - run: python fp.py --type socks5
 
 
